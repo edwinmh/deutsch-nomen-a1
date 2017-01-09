@@ -730,6 +730,686 @@
 		"niveau" : "A1"
 	},
 	{
+		"wort" : "Endstation",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Englischkurs",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Enkel",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Enkelin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Entschuldigung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Erbse",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Erdgeschoss",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Erwachsene",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Essen",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Euro",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Facharzt",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fachärztin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fahrkarte",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fahrplan",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fahrrad",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fahrschule",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fahrt",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Familie",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Familienkasse",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Familienname",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Familienstand",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Farbe",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Februar",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fehlen",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Feld",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Ferien",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Feriengast",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fernseher",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fertigpizza",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fest",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Festkomitee",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Festspiel",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Feuer",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fieber",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fieberthermometer",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Film",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Firma",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fisch",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fischer",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fischspezialität",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Flasche",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fleisch",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Flohmarkt",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Flughafen",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Flugzeug",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fluss",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Formular",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Foto",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Frage",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Frau",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Freitag",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Freizeit",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Freitzeitprogramm",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Freund",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Freundin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Friseur",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Friseurin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Früchtetee",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Frühling",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Frühstück",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Führerschein",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fuß",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fußball",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Fußballspiel",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Garten",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Geburtsdatum",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Geburtsort",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gegenteil",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gehalt",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gehaltsabrechnung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Geld",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Geldautomat",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gemeinde",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gemüse",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Geschäft",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Geschenkartikel",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Geschichte",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gesundheit",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Getränk",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Getränkemarkt",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Girokonto",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Glas",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gleis",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Glück",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Grad",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gramm",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Grill",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Grippe",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Größe",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Großeltern",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Großmutter",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Großstadt",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Großvater",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gruß",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Gurke",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hackfleisch",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hafen",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hafenrundfahrt",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hähnchen",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hals",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Halsschmerzen",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Haltestelle",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hand",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Handy",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hauptbahnhof",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hauptwohnung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Haus",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hausarzt",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hausärztin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hausaufgabe",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hausfrau",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hausmeister",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hausmeisterin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hausnummer",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hausverwaltung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Heft",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Heimat",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Heimatland",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Heizung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hemd",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Herbst",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Herd",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Herr",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Herrenbekleidung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Herrenhose",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hobby",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hochhaus",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hochzeit",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hochzeitstag",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hof",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hoffest",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Honig",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hose",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hund",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Hunger",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Husten",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
 		"wort" : "",
 		"artikel" : "",
 		"niveau" : "A1"
