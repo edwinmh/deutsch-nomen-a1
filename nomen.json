@@ -326,7 +326,7 @@
 	},
 	{
 		"wort" : "Bauarbeiter",
-		"artikel" : "",
+		"artikel" : "der",
 		"niveau" : "A1"
 	},
 	{
@@ -1410,8 +1410,818 @@
 		"niveau" : "A1"
 	},
 	{
+		"wort" : "Idee",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Imbiss",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Informationsbroshüre",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Informationsschalter",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Insel",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Internet",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Interview",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Jacke",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Jahr",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Jahreszahl",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Jahreszeit",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Januar",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Jeans",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Joghurt",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Jugendliche",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Juli",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Junge",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Juni",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kaffee",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kakao",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kantine",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Karriere",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kartoffel",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Käse",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Käsekuchen",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kasse",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kasten",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Katalog",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kaufhaus",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kaugummi",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kellner",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kellnerin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "KfZ-Zulassung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "KfZ-Zulassungsstelle",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kilo",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kilogramm",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kind",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kinderarzt",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kinderärztin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kinderbetreuung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kindergarten",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kindergeld",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kindergeldantrag",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kinderwagen",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kindheit",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kino",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kiosk",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kita",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Klasse",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kleid",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kleidung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kleinigkeit",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kleinstadt",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Klingel",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Koch",
+		"artikel" : "",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Köchin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kochkurs",
+		"artikel" : "",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Koffer",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kollege",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kollegin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kommode",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kontakt",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kontinent",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kontoauszug",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kontonummer",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kontrolle",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Konzert",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kopf",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kopfschmerzen",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kopie",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Körperteil",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Krankengymnastik",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Krankenhaus",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Krakenkasse",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Krakenversicherung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Krankschreibung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kreuzung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Krimi",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Küche",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kuchen",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kugelschreiber",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kühlschrank",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kulturfestival",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kunde",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kundin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kurs",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kursfest",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kursgebühr",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kursleiter",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kursleiterin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kursliste",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kursraum",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Kurstermin",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
 		"wort" : "",
 		"artikel" : "",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Laden",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Ladenbesitzer",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Ladenbesitzerin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lampe",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Land",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Landschaft",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Laune",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Leben",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lebensmittel",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Ledertasche",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lehrer",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lehrerin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lektion",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Leute",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Licht",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lieblingsfarbe",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lieblingsjahreszeit",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lineal",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Linie",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Liter",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "LKW",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lösung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Lust",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mädchen",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mädchenhose",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mai",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mais",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Maler",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Malerin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mann",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Marathon",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Markt",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Marmelade",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "März",
+		"artikel" : "",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Medikament",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Meer",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Meldstelle",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Messe",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Miete",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mietshaus",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mietvertrag",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mietwohnung",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mikrowelle",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Milch",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mineralwasser",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Minute",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mitgliedsbeitrag",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mittag",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mittagessen",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mittagspause",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mittwoch",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Möbel",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "",
+		"artikel" : "",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Modeschmuck",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Moment",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Monat",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Monatskarte",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Montag",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Morgen",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Motorrad",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mülltonne",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mund",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Münze",
+		"artikel" : "",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Musik",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Musiker",
+		"artikel" : "der",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Musikerin",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Müsli",
+		"artikel" : "das",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Mutter",
+		"artikel" : "die",
+		"niveau" : "A1"
+	},
+	{
+		"wort" : "Muttersprache",
+		"artikel" : "die",
 		"niveau" : "A1"
 	}
 ]
